@@ -1,0 +1,173 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0 auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+.p{
+    padding:10px 30px 10px 2px;
+    text-transform: uppercase;
+    font-size: small;
+    font-weight: bold;
+}
+.p span{
+    margin-left: 40px;
+    padding-right:15px;
+    
+}
+.p button{
+    background-color: #2C2827;
+    color: white;
+    width:140px;
+    height:50px;
+    padding:10px;
+    border-radius: 10px;
+    border: none;
+     text-transform: uppercase;
+     font-size: smaller;
+     font-weight: 800;
+    }
+.first{
+    padding:40px 20px;
+    margin-left: 20px;
+}
+.col-md-4 h1{
+    margin:20px 0px;
+    font-weight:900;   
+
+}
+.col-md-4 button{
+    background-color:#F90822;
+    color: white;
+    width:140px;
+    height:50px;
+    padding:10px;
+    border-radius: 10px;
+    border: none;
+     text-transform: uppercase;
+     font-size: 10px;
+     font-weight: 800;
+}
+.second{
+    margin: 10px 5px;
+}
+.second i,.second h4 {
+    padding-bottom: 50px;
+}
+.second h4{
+    font-weight: 550;
+    font-size: 30px;
+}
+.card img{
+    
+    width: 100px;
+    height:100px;
+    margin: 0 auto;
+    
+}
+.card{
+   text-align: center;
+   padding:10px 0px;
+}
+.card h6{
+    font-weight: bold;
+}
+hr{
+    width:90%;
+    padding: 30px;
+    margin:50px auto;
+}
+.third .pc{
+    font-weight: bold;
+    font-size: 20px;
+}
+.third .bc{
+    color: red;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.third .col{
+    margin:20px;
+    padding:20px 10px;
+    border-radius: 10px;
+    height:150px;
+    background-color:#B1AEB8;
+    text-align: center;
+}
+.col img{
+    width: 90px;
+    height: 60px;
+    padding: 15px 10px;
+}
+.fourth h5{
+    text-align: center;
+    font-weight: bold;
+    
+}
+.cola img{
+    width: 230px;
+    height:100px;
+    padding: 5px 0px 20px 0px;
+}
+.cola{
+    width: 250px;
+    margin-bottom:10px;
+    margin-right: 15px;
+    border:#B1AEB8 1px solid;
+    border-radius: 20px;
+    height:250px;
+    padding: 10px 10px;
+
+}
+.cola h6{
+    margin: 10px 0px;
+    font-weight: bold;
+    padding
+}
+.cola button{
+    background-color:;
+    color:black;
+    width:100px;
+    height:30px;
+    padding:10px;
+    border-radius: 10px;
+    border: none;
+     font-size: 10px;
+     font-weight: 600;
+}
+.fourth .view{
+    margin: 50px 450px 90px 450px;
+    background-color:#f03b4d;
+    color: white;
+    width:140px;
+    height:50px;
+    padding:10px;
+    border-radius: 10px;
+    border: none;
+     text-transform: uppercase;
+     font-size: 10px;
+     font-weight: 800;
+}
+.fifth span{
+    border: none;
+    color: #f03b4d;
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: bold;
+    margin-left: 20px;
+    
+}
+
+.fifth .col-md-6{
+    background-color:#f9f6ff ;
+    padding:20px 40px;
+}
+.fifth .col-md-6 p{
+    margin:50px 20px;
+    font-size: 23px;
+
+}
